@@ -1,2 +1,2 @@
 # VTi-unicable.xml
-unicable.xml for Vu+ STB's
+unicable.xml for Vu+ STB's with VTi
