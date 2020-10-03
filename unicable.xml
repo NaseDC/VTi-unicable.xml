@@ -216,6 +216,10 @@ unicable (version)
 			<product name="MCR 518" format="EN50494" positions="1" scr1="1076" scr2="1178" scr3="1280" scr4="1382" scr5="1484" scr6="1586" scr7="1688" scr8="1790"/>
 			<product name="MCR 918" format="EN50494" positions="2" scr1="1076" scr2="1178" scr3="1280" scr4="1382" scr5="1484" scr6="1586" scr7="1688" scr8="1790"/>
 		</manufacturer>
+		<manufacturer name="GT-SAT">
+			<product name="GT-dMS2T" scr1="1210" scr2="1420" scr3="1680" scr4="2040" scr5="985" scr6="1050" scr7="1115" scr8="1275" scr9="1340" scr10="1485" scr11="1550" scr12="1615" scr13="1745" scr14="1810" scr15="1875" scr16="1940"/>
+			<product name="GT-dMS4T" scr1="1210" scr2="1420" scr3="1680" scr4="2040" scr5="985" scr6="1050" scr7="1115" scr8="1275" scr9="1340" scr10="1485" scr11="1550" scr12="1615" scr13="1745" scr14="1810" scr15="1875" scr16="1940"/>
+		</manufacturer>
 		<manufacturer name="G-STAR">
 			<product name="GS-506-S1" scr1="1280" scr2="1382" scr3="1484"/>
 			<product name="GS-516-S1" scr1="1280" scr2="1382" scr3="1484" scr4="1586" scr5="1688" scr6="1790"/>
