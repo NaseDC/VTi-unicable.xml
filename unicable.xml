@@ -279,6 +279,7 @@ unicable (version)
 			<product name="JPS0508-3(A/M/T)" format="JESS" scr1="1280" scr2="1382" scr3="1484"/>
 			<product name="JPS0901-6(A/M/T)" format="JESS" positions="2" scr1="1280" scr2="1382" scr3="1484" scr4="1586" scr5="1688" scr6="1790"/>
 			<product name="JPS0901-12(AN/TN)" format="JESS" positions="2" scr1="974"  scr2="1076" scr3="1178" scr4="1280" scr5="1382" scr6="1484" scr7="1586" scr8="1688" scr9="1790" scr10="1892" scr11="1994" scr12="2096"/>
+			<product name="JPS0901-16(MN)" format="JESS" positions="4" scr1="1375" scr2="1425" scr3="1475" scr4="1525" scr5="1575" scr6="1625" scr7="1675" scr8="1725" scr9="1775" scr10="1825" scr11="1875" scr12="1925" scr13="1975" scr14="2025" scr15="2075" scr16="2125"/>
 			<product name="JPS0902-12(MN/TN)" format="JESS" positions="2" scr1="974"  scr2="1076" scr3="1178" scr4="1280" scr5="1382" scr6="1484" scr7="1586" scr8="1688" scr9="1790" scr10="1892" scr11="1994" scr12="2096"/>
 			<product name="JPS0902-3" format="JESS" positions="2" scr1="1280" scr2="1382" scr3="1484"/>
 			<product name="JPS0902-6(A/M/T)" format="JESS" positions="2" scr1="1280" scr2="1382" scr3="1484" scr4="1586" scr5="1688" scr6="1790"/>
