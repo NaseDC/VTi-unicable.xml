@@ -181,8 +181,8 @@ unicable (version)
 			<product name="SES 86-00" format="EN50494" positions="2" scr1="1280" scr2="1382" scr3="1484" scr4="1586" scr5="1688" scr6="1790"/>
 		</manufacturer>
 		<manufacturer name="DCT Delta">
-			<product name="MSU 401-16K" format="JESS" scr1="1210" scr2="1420" scr3="1680" scr4="2040" scr5="985" scr6="1050" scr7="1115" scr8="1275" scr9="1340" scr10="1485" scr11="1550" scr12="1580" scr13="1745" scr14="1810" scr15="1875" scr16="1940"/>
-			<product name="MSW 502-16KP" positions="2" format="JESS" scr1="1210" scr2="1420" scr3="1680" scr4="2040" scr5="985" scr6="1050" scr7="1115" scr8="1275" scr9="1340" scr10="1485" scr11="1550" scr12="1580" scr13="1745" scr14="1810" scr15="1875" scr16="1940"/>
+			<product name="MSU 401-16K" format="JESS" scr1="1210" scr2="1420" scr3="1680" scr4="2040" scr5="985" scr6="1050" scr7="1115" scr8="1275" scr9="1340" scr10="1485" scr11="1550" scr12="1615" scr13="1745" scr14="1810" scr15="1875" scr16="1940"/>
+			<product name="MSW 502-16KP" positions="2" format="JESS" scr1="1210" scr2="1420" scr3="1680" scr4="2040" scr5="985" scr6="1050" scr7="1115" scr8="1275" scr9="1340" scr10="1485" scr11="1550" scr12="1615" scr13="1745" scr14="1810" scr15="1875" scr16="1940"/>
 			<product name="SUM518" scr1="1284" scr2="1400" scr3="1516" scr4="1632" scr5="1748" scr6="1864" scr7="1980" scr8="2096"/>
 			<product name="SUM918" positions="2" scr1="1284" scr2="1400" scr3="1516" scr4="1632" scr5="1748" scr6="1864" scr7="1980" scr8="2096"/>
 			<product name="SUM928" positions="2" scr1="1284" scr2="1400" scr3="1516" scr4="1632" scr5="1748" scr6="1864" scr7="1980" scr8="2096"/>
